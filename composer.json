@@ -1,0 +1,14 @@
+{
+    "name": "prova/aula22",
+    "description": "sistemaderh php7",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JulioCesarAntonyFraga",
+            "email": "juliocesaradefraga@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
